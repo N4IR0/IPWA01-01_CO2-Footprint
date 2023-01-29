@@ -1,0 +1,11 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+html { scroll-padding-top: 65px; }
+
+.sticky-sidebar {
+  z-index: 900;
+}
+
+main {
+  margin-bottom: 65px;
+}
