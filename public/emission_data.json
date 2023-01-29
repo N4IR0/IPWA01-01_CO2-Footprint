@@ -1,0 +1,62 @@
+[
+  {
+    "company": "ÖkoNice GmbH",
+    "country": "Deutschland",
+    "emission": 12.74
+  },
+  {
+  "company": "KohleStrom GmbH",
+  "country": "Deutschland",
+  "emission": 3456.32
+  },
+  {
+    "company": "Datacenter AG",
+    "country": "Deutschland",
+    "emission": 234.45
+  },
+  {
+    "company": "Bäckerei Mustermann",
+    "country": "Deutschland",
+    "emission": 2.98
+  },
+  {
+    "company": "Computing Ltd",
+    "country": "USA",
+    "emission": 345.67
+  },
+  {
+    "company": "Supermarket Ltd",
+    "country": "USA",
+    "emission": 234.23
+  },
+  {
+    "company": "Bitcoin Oy",
+    "country": "Finnland",
+    "emission": 2345.34
+  },
+  {
+    "company": "WaterEnergy Oy",
+    "country": "Finnland",
+    "emission": 25.78
+  },
+  {
+    "company": "Coffeshop BV",
+    "country": "Niederlande",
+    "emission": 255.6
+  },
+  {
+    "company": "Big Onlineshop Ltd",
+    "country": "Irland",
+    "emission": 355.23
+  },
+  {
+    "company": "Schoki GmbH",
+    "country": "Schweiz",
+    "emission": 35.6
+  },
+  {
+    "company": "Fondue AG",
+    "country": "Schweiz",
+    "emission": 37.3
+  }
+]
