@@ -51,9 +51,9 @@
             </div>
         </div>
         <div class="col-md-9 col-lg-10">
-            <h1 class="display-5 border-bottom pb-2">CO²-Emissionen</h1>
+            <h1 class="display-5 border-bottom pb-2">CO₂-Emissionen</h1>
             <p>
-                Auf dieser Seite finden Sie die CO²-Emissionswerte verschiedener Firmen und Länder. Die Werte und Firmen sind dabei fiktive Datensätze.
+                Auf dieser Seite finden Sie die CO₂-Emissionswerte verschiedener Firmen und Länder. Die Werte und Firmen sind dabei fiktive Datensätze.
             </p>
             <section id="countries">
                 <EmissionTableCountries />

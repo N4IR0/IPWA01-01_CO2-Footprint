@@ -18,7 +18,7 @@
                         <a class="nav-link" href="/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/co2-emission.html">CO²-Emissionen</a>
+                        <a class="nav-link" href="/co2-emission.html">CO₂-Emissionen</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/imprint.html">Impressum</a>

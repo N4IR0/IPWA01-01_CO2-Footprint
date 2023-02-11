@@ -73,7 +73,7 @@
           {/if}
         </div>
         <div class="col">
-          <label for="companyTableFilterEmission" class="form-label">CO²-Emissionen</label>
+          <label for="companyTableFilterEmission" class="form-label">CO₂-Emissionen</label>
           <div class="input-group" id="companyTableFilterEmission">
             <input type="number" class="form-control" placeholder="Von" step="0.01" bind:value={$emissionFromFilterField.value} use:style={{field: emissionFromFilterField, invalid: 'is-invalid'}} />
             <span class="input-group-text">-</span>
@@ -116,7 +116,7 @@
       <th>
         <Sorting
                 tableSettingStore="{tableSettingStore}"
-                columnName="CO²-Emissionen"
+                columnName="CO₂-Emissionen"
                 columnIdentifier="emission"
         />
       </th>
